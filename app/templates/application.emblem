@@ -1,3 +1,6 @@
-h2 Uow
+h1 Tag it!
+
+p: link-to 'add' | Add content
+p: link-to 'list' | List content
 
 == outlet
